@@ -1,6 +1,6 @@
 Name:		texlive-dtxdescribe
 Version:	65223
-Release:	1
+Release:	2
 Summary:	Describe additional object types in dtx source files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dtxdescribe
