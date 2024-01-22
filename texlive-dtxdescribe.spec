@@ -1,5 +1,5 @@
 Name:		texlive-dtxdescribe
-Version:	69348
+Version:	69507
 Release:	1
 Summary:	Describe additional object types in dtx source files
 Group:		Publishing
