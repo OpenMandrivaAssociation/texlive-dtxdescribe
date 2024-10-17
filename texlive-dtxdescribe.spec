@@ -3,7 +3,7 @@ Version:	69507
 Release:	1
 Summary:	Describe additional object types in dtx source files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dtxdescribe
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dtxdescribe
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dtxdescribe.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dtxdescribe.doc.r%{version}.tar.xz
